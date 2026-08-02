@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ritikraj11/Leetocde/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ritikraj11/Leetocde/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritikraj11/Leetocde/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ritikraj11/Leetocde/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ritikraj11/Leetocde/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ritikraj11/Leetocde/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ritikraj11/Leetocde/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ritikraj11/Leetocde/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ritikraj11/Leetocde/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -63,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ritikraj11/Leetocde/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ritikraj11/Leetocde/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
