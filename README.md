@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ritikraj11/Leetocde/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ritikraj11/Leetocde/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Ritikraj11/Leetocde/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ritikraj11/Leetocde/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Ritikraj11/Leetocde/tree/master/1140-stone-game-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ritikraj11/Leetocde/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ritikraj11/Leetocde/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritikraj11/Leetocde/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
