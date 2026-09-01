@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ritikraj11/Leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritikraj11/Leetocde/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Ritikraj11/Leetocde/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ritikraj11/Leetocde/tree/master/0283-move-zeroes) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ritikraj11/Leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritikraj11/Leetocde/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Ritikraj11/Leetocde/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ritikraj11/Leetocde/tree/master/0283-move-zeroes) |
