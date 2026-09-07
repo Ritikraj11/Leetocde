@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritikraj11/Leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritikraj11/Leetocde/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Ritikraj11/Leetocde/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ritikraj11/Leetocde/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ritikraj11/Leetocde/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Ritikraj11/Leetocde/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ritikraj11/Leetocde/tree/master/0877-stone-game) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ritikraj11/Leetocde/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritikraj11/Leetocde/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ritikraj11/Leetocde/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritikraj11/Leetocde/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ritikraj11/Leetocde/tree/master/0268-missing-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ritikraj11/Leetocde/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ritikraj11/Leetocde/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritikraj11/Leetocde/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ritikraj11/Leetocde/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ritikraj11/Leetocde/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Ritikraj11/Leetocde/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ritikraj11/Leetocde/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Ritikraj11/Leetocde/tree/master/1140-stone-game-ii) |
@@ -195,9 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ritikraj11/Leetocde/tree/master/0268-missing-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ritikraj11/Leetocde/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ritikraj11/Leetocde/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Ritikraj11/Leetocde/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
