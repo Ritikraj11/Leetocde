@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritikraj11/Leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritikraj11/Leetocde/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritikraj11/Leetocde/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Ritikraj11/Leetocde/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ritikraj11/Leetocde/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ritikraj11/Leetocde/tree/master/0283-move-zeroes) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritikraj11/Leetocde/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Ritikraj11/Leetocde/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ritikraj11/Leetocde/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Ritikraj11/Leetocde/tree/master/1140-stone-game-ii) |
