@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritikraj11/Leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritikraj11/Leetocde/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritikraj11/Leetocde/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Ritikraj11/Leetocde/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ritikraj11/Leetocde/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ritikraj11/Leetocde/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ritikraj11/Leetocde/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ritikraj11/Leetocde/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ritikraj11/Leetocde/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritikraj11/Leetocde/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ritikraj11/Leetocde/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ritikraj11/Leetocde/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/Ritikraj11/Leetocde/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritikraj11/Leetocde/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ritikraj11/Leetocde/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ritikraj11/Leetocde/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ritikraj11/Leetocde/tree/master/0268-missing-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ritikraj11/Leetocde/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ritikraj11/Leetocde/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -217,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ritikraj11/Leetocde/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ritikraj11/Leetocde/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ritikraj11/Leetocde/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
