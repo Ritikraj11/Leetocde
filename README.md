@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ritikraj11/Leetocde/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritikraj11/Leetocde/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1872-stone-game-viii](https://github.com/Ritikraj11/Leetocde/tree/master/1872-stone-game-viii) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ritikraj11/Leetocde/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2029-stone-game-ix](https://github.com/Ritikraj11/Leetocde/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ritikraj11/Leetocde/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ritikraj11/Leetocde/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -246,4 +247,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Ritikraj11/Leetocde/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ritikraj11/Leetocde/tree/master/0073-set-matrix-zeroes) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ritikraj11/Leetocde/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
